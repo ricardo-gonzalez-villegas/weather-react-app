@@ -1,6 +1,6 @@
 # Weather React App
 
-This is a Weather App project for the Odin Project done in React. It utilizes React function components, as well as Material-UI components, hooks,JSS for the styling, and both the OpenWeather API and Giphy API. Weather as well as a gif related to the current weather are displayed.  
+This is the Weather App project for the Odin Project done in React. It utilizes React function components, as well as Material-UI components, hooks,JSS for the styling, and both the OpenWeather API and Giphy API. Weather as well as a gif related to the current weather are displayed.  
 
 <a href="https://ricardo-gonzalez-villegas.github.io/weather-react-app/">View it here.</a>
 <section>
