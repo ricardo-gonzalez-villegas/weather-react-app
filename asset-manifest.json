@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/weather-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/weather-react-app/static/js/main.58ab6721.chunk.js",
+    "main.js.map": "/weather-react-app/static/js/main.58ab6721.chunk.js.map",
+    "runtime-main.js": "/weather-react-app/static/js/runtime-main.96a07b75.js",
+    "runtime-main.js.map": "/weather-react-app/static/js/runtime-main.96a07b75.js.map",
+    "static/js/2.1b5125ba.chunk.js": "/weather-react-app/static/js/2.1b5125ba.chunk.js",
+    "static/js/2.1b5125ba.chunk.js.map": "/weather-react-app/static/js/2.1b5125ba.chunk.js.map",
+    "index.html": "/weather-react-app/index.html",
+    "precache-manifest.82727d79a334bc9d042fe06c06f18d62.js": "/weather-react-app/precache-manifest.82727d79a334bc9d042fe06c06f18d62.js",
+    "service-worker.js": "/weather-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/weather-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1b5125ba.chunk.js.LICENSE.txt": "/weather-react-app/static/js/2.1b5125ba.chunk.js.LICENSE.txt",
+    "static/media/clouds.svg": "/weather-react-app/static/media/clouds.0a5cc38e.svg",
+    "static/media/high.svg": "/weather-react-app/static/media/high.67b5ea5a.svg",
+    "static/media/humidity.svg": "/weather-react-app/static/media/humidity.0d0e5a68.svg",
+    "static/media/low.svg": "/weather-react-app/static/media/low.d9a5c3ae.svg",
+    "static/media/mist.svg": "/weather-react-app/static/media/mist.89b6cd13.svg",
+    "static/media/rain.svg": "/weather-react-app/static/media/rain.5e52afe2.svg",
+    "static/media/shower.svg": "/weather-react-app/static/media/shower.fa2da37f.svg",
+    "static/media/snow.svg": "/weather-react-app/static/media/snow.bf6fc3a8.svg",
+    "static/media/sunny.svg": "/weather-react-app/static/media/sunny.1f6a4e37.svg",
+    "static/media/thunderstorm.svg": "/weather-react-app/static/media/thunderstorm.dcde16ad.svg",
+    "static/media/wind.svg": "/weather-react-app/static/media/wind.0b616cd4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96a07b75.js",
+    "static/js/2.1b5125ba.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.58ab6721.chunk.js"
+  ]
+}
